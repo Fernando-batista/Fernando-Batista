@@ -19,7 +19,7 @@ Minha jornada no desenvolvimento web começou com um profundo fascínio pela man
 
 ### Explorando Meus Projetos da minha Jornada no Mundo da Web
 
-[1° - pagina do whatsapp]() - Em  desenvolvimento
+[1° - pagina do whatsapp]() => [codigo]() => [site](). obs: Em desenvolvimento
 
 ### conceitos aplicados em meus Projetos
 - Semântica HTML 
