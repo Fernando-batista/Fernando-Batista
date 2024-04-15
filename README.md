@@ -19,6 +19,8 @@ Minha jornada no desenvolvimento web começou com um profundo fascínio pela man
 
 ### Explorando Meus Projetos Uma Jornada no Mundo da Web
 
+[1° - pagina do whatsapp]() - Em  desenvolvimento
+
 ### conceitos aplicados em meus Projetos
 - Semântica HTML 
 - Pontos de acessibilidade
