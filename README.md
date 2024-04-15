@@ -10,10 +10,10 @@ Sou Fernando Batista, um entusiasta da tecnologia com paixão pela criação de 
 
 
 ## 💻 Desenvolvedor Web: Especialista em :
-![HTML5](https://img.icons8.com/color/80/html-5--v1.png)
-![css3](https://img.icons8.com/color/80/css3.png)
-![JAVASCRIPT](https://img.icons8.com/fluency/80/javascript.png)
-![NODEJS](https://img.icons8.com/fluency/80/node-js.png)
+![HTML5](https://img.icons8.com/color/70/html-5--v1.png)
+![css3](https://img.icons8.com/color/70/css3.png)
+![JAVASCRIPT](https://img.icons8.com/fluency/70/javascript.png)
+![NODEJS](https://img.icons8.com/fluency/70/node-js.png)
 
 Minha jornada no desenvolvimento web começou com um profundo fascínio pela maneira como a tecnologia molda nosso mundo digital.
 
