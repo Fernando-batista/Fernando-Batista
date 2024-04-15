@@ -1,8 +1,29 @@
-# Olá, 
+# Olá , 👋
 Sou Fernando Batista, um entusiasta da tecnologia com paixão pela criação de soluções digitais. Como desenvolvedor web/futuro mobile, estou em constante busca por desafios estimulantes e oportunidades para aprimorar minhas habilidades.
 
-## Meu conhecimento em Tecnologias Web :
-![HTML5](https://img.icons8.com/color/70/html-5--v1.png)
-![css3](https://img.icons8.com/color/70/css3.png)
+
+### Formado em 📚:
+- sistemas de informação - estacio sá .
+- html5 e css3 - origamid .
+- javascript es6 - origamid.
+- JavaScript e TypeScript do básico ao avançado JS/TS - udemy .
+
+
+## 💻 Desenvolvedor Web: Especialista em :
+![HTML5](https://img.icons8.com/color/80/html-5--v1.png)
+![css3](https://img.icons8.com/color/80/css3.png)
+![JAVASCRIPT](https://img.icons8.com/fluency/80/javascript.png)
+![NODEJS](https://img.icons8.com/fluency/80/node-js.png)
 
 Minha jornada no desenvolvimento web começou com um profundo fascínio pela maneira como a tecnologia molda nosso mundo digital.
+
+### Explorando Meus Projetos Uma Jornada no Mundo da Web
+
+### conceitos aplicados em meus Projetos
+- Semântica HTML 
+- Pontos de acessibilidade
+- Responsividade
+- Mobile first
+
+### contato
+E-mail : [fernandobatista1407@gmail.com]("E-Mail")
