@@ -17,7 +17,7 @@ Sou Fernando Batista, um entusiasta da tecnologia com paixão pela criação de 
 
 Minha jornada no desenvolvimento web começou com um profundo fascínio pela maneira como a tecnologia molda nosso mundo digital.
 
-### Explorando Meus Projetos Uma Jornada no Mundo da Web
+### Explorando Meus Projetos da minha Jornada no Mundo da Web
 
 [1° - pagina do whatsapp]() - Em  desenvolvimento
 
