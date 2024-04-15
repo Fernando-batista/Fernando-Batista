@@ -3,10 +3,10 @@ Sou Fernando Batista, um entusiasta da tecnologia com paixão pela criação de 
 
 
 ### Formado em 📚:
-- sistemas de informação - estacio sá .
-- html5 e css3 - origamid .
-- javascript es6 - origamid.
-- JavaScript e TypeScript do básico ao avançado JS/TS - udemy .
+- Análise e Desenvolvimento de Sistemas - Estacio sá .
+- HTML5 e CSS3 - Origamid .
+- Javascript ES6 - Origamid .
+- JavaScript e TypeScript do básico ao avançado JS/TS - Udemy .
 
 
 ## 💻 Desenvolvedor Web: Especialista em :
