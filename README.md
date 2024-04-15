@@ -9,7 +9,7 @@ Sou Fernando Batista, um entusiasta da tecnologia com paixão pela criação de 
 - JavaScript e TypeScript do básico ao avançado JS/TS - Udemy .
 
 
-## 💻 Desenvolvedor Web: Especialista em :
+## 💻 Desenvolvedor Web Especialista em :
 ![HTML5](https://img.icons8.com/color/40/html-5--v1.png)
 ![css3](https://img.icons8.com/color/40/css3.png)
 ![JAVASCRIPT](https://img.icons8.com/fluency/40/javascript.png)
