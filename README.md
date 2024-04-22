@@ -14,7 +14,7 @@ Sou Fernando Batista, um entusiasta da tecnologia com paixão pela criação de 
 ![css3](https://img.icons8.com/color/40/css3.png)
 ![JAVASCRIPT](https://img.icons8.com/fluency/40/javascript.png)
 ![NODEJS](https://img.icons8.com/fluency/40/node-js.png)
-![express](https://img.icons8.com/ios/40/express-js.png)
+![express](https://img.icons8.com/ios/50/express-js.png)
 
 Minha jornada no desenvolvimento web começou com um profundo fascínio pela maneira como a tecnologia molda nosso mundo digital.
 
