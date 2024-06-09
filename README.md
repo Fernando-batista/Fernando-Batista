@@ -17,4 +17,4 @@ Minha jornada no desenvolvimento web começou com um profundo fascínio pela man
 ### Explorando Meus Projetos da minha Jornada no Mundo da Web :
 
 ### contato
-E-mail : [fernandobatista1407@gmail.com]("E-Mail")
+E-mail : <a target="_blank" href="email:fernandobatista1407@gmail.com" >fernandobatista1407@gmail.com </a>
