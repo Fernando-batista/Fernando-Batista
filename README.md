@@ -2,13 +2,14 @@
 Sou um entusiasta da tecnologia com paixão pela criação de soluções digitais. Como desenvolvedor back end, estou em constante busca por desafios estimulantes e oportunidades para aprimorar minhas habilidades.
 
 
-### Formado em 📚:
+### Formação Profissional
 - Análise e Desenvolvimento de Sistemas - Estacio sá
-- desenvolvimento back end nodejs - Rocketseat
+- Formação Full-Stack - Rocketseat
+- Formação em Node.js - Rocketseat
+- Formação Fundamentos do React Native - Rocketseat
 
-## Hard skills  :
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,express,mongodb)
+## Hard skills
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,mongodb)
 
 ## Projetos em Destaque
 ### [convertiohappy](https://convertiohappy.com/) 
