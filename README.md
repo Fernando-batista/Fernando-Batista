@@ -13,7 +13,7 @@ Sou um entusiasta da tecnologia com paixão pela criação de soluções digitai
 ## Projetos em Destaque
 ### [convertiohappy](https://convertiohappy.com/) 
 
-O ConvertioHappy é a ferramenta online definitiva para quem precisa converter imagens de forma simples, rápida e sem complicação! Com uma interface intuitiva e sem a necessidade de instalação de programas, você pode converter seus arquivos de imagem para diversos formatos em apenas alguns cliques.
+O ConvertioHappy é a ferramenta online definitiva para quem precisa converter imagems de forma simples, rápida e sem complicação! Com uma interface intuitiva e sem a necessidade de instalação de programas, você pode converter seus arquivos de imagem para diversos formatos em apenas alguns cliques.
 
 
   
