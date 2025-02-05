@@ -9,10 +9,10 @@ Sou um entusiasta da tecnologia com paixão pela criação de soluções digitai
 - Formação Fundamentos do React Native - Rocketseat
 
 ## Hard skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,mongodb)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,mongodb,git)
 
 ## Projetos em Destaque
-### [convertiohappy](https://convertiohappy.com/) 
+### <a href='https://convertiohappy.com/' target="_blank"> convertiohappy </a> 
 
 O ConvertioHappy é a ferramenta online definitiva para quem precisa converter imagems de forma simples, rápida e sem complicação! Com uma interface intuitiva e sem a necessidade de instalação de programas, você pode converter seus arquivos de imagem para diversos formatos em apenas alguns cliques.
 
