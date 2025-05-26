@@ -1,4 +1,4 @@
-##👋 Olá, eu sou o Fernando Batista!
+# Olá, eu sou o Fernando Batista!
 Sou desenvolvedor mobile especializado em React Native, apaixonado por tecnologia e movido pela vontade de transformar ideias em soluções digitais que fazem a diferença no dia a dia das pessoas.
 
 Tenho como foco a criação de aplicativos modernos, intuitivos e de alto desempenho, sempre buscando aprimorar minhas habilidades técnicas e entregar experiências reais de valor. Gosto de desafios que me tiram da zona de conforto e me impulsionam a evoluir como profissional.
