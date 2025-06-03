@@ -4,12 +4,12 @@ Seja desenvolvendo do zero ou otimizando aplicações já existentes, estou semp
 
 ### Formação Profissional
 - Análise e Desenvolvimento de Sistemas - Estacio sá
-- Formação Full-Stack - Rocketseat
-- Formação em Node.js - Rocketseat
-- Formação Fundamentos do React Native - Rocketseat
+- Formação React Native - Rocketseat
+- Formação Node.js - Rocketseat
+- Formação Python - Rocketseat
 
 ## Hard skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,mongodb,gi)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,python,flask,git)
 
 ## Projetos em Destaque
 ### <a href="https://play.google.com/store/apps/details?id=com.fernando.bs14.mensagemdodia&pcampaignid=web_share" target="_blank">Mensagem do dia</a> 
@@ -21,6 +21,13 @@ Seja desenvolvendo do zero ou otimizando aplicações já existentes, estou semp
 
 
 O Mensagem do Dia é um aplicativo simples, leve e prático criado para quem gosta de enviar carinho, positividade e boas energias todos os dias ou em datas especiais. Através de imagens personalizadas, o app permite compartilhar mensagens de bom dia, boa tarde, boa noite, além de mensagens para datas comemorativas como Natal, Ano Novo, Dia das Mães, Dia dos Pais, Páscoa e muito mais!
+
+### 🛠️ Tecnologias Usadas:
+- <b>React Native</b> - para o desenvolvimento multiplataforma (Android e iOS)
+- <b>expo</b> - para facilitar o build e a execução do app
+- <b>Push Notifications</b> – envio de lembretes e mensagens programadas
+- <b>TypeScript</b> – para garantir mais segurança no código
+- <b>python ( Flask )</b> - automação e organização de mensagens e imagens
 
 
   
