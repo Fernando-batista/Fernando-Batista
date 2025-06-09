@@ -5,7 +5,7 @@ Seja desenvolvendo do zero ou otimizando aplicações já existentes, estou semp
 ### Formação Profissional
 - Análise e Desenvolvimento de Sistemas - Estacio sá
 - React Native - Rocketseat
-- UX/UI com Figma
+- UX/UI com Figma - Rocketseat
 - Node.js - Rocketseat
 - Python - Rocketseat
 
