@@ -4,9 +4,10 @@ Seja desenvolvendo do zero ou otimizando aplicações já existentes, estou semp
 
 ### Formação Profissional
 - Análise e Desenvolvimento de Sistemas - Estacio sá
-- Formação React Native - Rocketseat
-- Formação Node.js - Rocketseat
-- Formação Python - Rocketseat
+- React Native - Rocketseat
+- UX/UI com Figma
+- Node.js - Rocketseat
+- Python - Rocketseat
 
 ## Hard skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,python,flask,git)
