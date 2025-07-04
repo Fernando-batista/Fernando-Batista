@@ -28,7 +28,7 @@ O Mensagem do Dia é um aplicativo simples, leve e prático criado para quem gos
 - <b>expo</b> - para facilitar o build e a execução do app
 - <b>Push Notifications</b> – envio de lembretes e mensagens programadas
 - <b>TypeScript</b> – para garantir mais segurança no código
-- <b>python ( Flask )</b> - automação e organização de mensagens e imagens
+- <b>nodejs ( Express )</b> - automação e organização de mensagens e imagens
 
 
   
