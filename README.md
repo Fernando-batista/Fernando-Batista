@@ -1,13 +1,10 @@
 # Olá, eu sou o Fernando Batista!
-Sou desenvolvedor Full Stack Mobile Developer, apaixonado por tecnologia e movido pela vontade de transformar ideias em soluções digitais que fazem a diferença no dia a dia das pessoas.
+Sou desenvolvedor Full Stack/Mobile Developer, apaixonado por tecnologia e movido pela vontade de transformar ideias em soluções digitais que fazem a diferença no dia a dia das pessoas.
 Seja desenvolvendo do zero ou otimizando aplicações já existentes, estou sempre pronto para aprender, colaborar e construir soluções que impactem positivamente a vida dos usuários.
 
 ### Formação Profissional
 - Análise e Desenvolvimento de Sistemas - Estacio sá
-- React Native - Rocketseat
-- UX/UI com Figma - Rocketseat
-- Node.js - Rocketseat
-- Python - Rocketseat
+- Full stack-Stack ( cursando )
 
 ## Hard skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,git)
