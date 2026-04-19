@@ -10,7 +10,7 @@ Seja desenvolvendo do zero ou otimizando aplicações já existentes, estou semp
 - Python - Rocketseat
 
 ## Hard skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,python,flask,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,nodejs,express,git)
 
 ## Projetos em Destaque
 ### <a href="https://play.google.com/store/apps/details?id=com.fernando.bs14.mensagemdodia&pcampaignid=web_share" target="_blank">Mensagem do dia</a> 
